@@ -1,4 +1,4 @@
-# 👨‍💻 Canilo Catalán | Portafolio
+# 👨‍💻 Canilo Catalan | Portafolio
 
 [![GitHub](https://img.shields.io/badge/GitHub-Portafolio-blue?style=flat-square&logo=github)](https://github.com/TU-USUARIO)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/TU-PERFIL)
@@ -41,3 +41,4 @@
 ---
 
 ## 📁 Estructura del Proyecto
+

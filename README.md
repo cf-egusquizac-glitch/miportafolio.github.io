@@ -37,8 +37,3 @@
 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Lógica vanilla ES6+ sin frameworks |
 | ![Font Awesome](https://img.shields.io/badge/Font_Awesome-339AF0?style=flat-square&logo=fontawesome&logoColor=white) | Iconos vectoriales escalables |
 | ![Google Fonts](https://img.shields.io/badge/Google_Fonts-4285F4?style=flat-square&logo=googlefonts&logoColor=white) | Tipografía Poppins moderna |
-
----
-
-## 📁 Estructura del Proyecto
-
